@@ -1,6 +1,8 @@
 # Route Redirector
 
-Redirect Responses direct from your routes file.
+[![Latest Stable Version](https://poser.pugx.org/vluzrmos/laravel-route-redirector/v/stable)](https://packagist.org/packages/vluzrmos/laravel-route-redirector) [![Total Downloads](https://poser.pugx.org/vluzrmos/laravel-route-redirector/downloads)](https://packagist.org/packages/vluzrmos/laravel-route-redirector) [![Latest Unstable Version](https://poser.pugx.org/vluzrmos/laravel-route-redirector/v/unstable)](https://packagist.org/packages/vluzrmos/laravel-route-redirector) [![License](https://poser.pugx.org/vluzrmos/laravel-route-redirector/license)](https://packagist.org/packages/vluzrmos/laravel-route-redirector)
+
+Redirect responses direct from your routes file.
 
 # Install
 
